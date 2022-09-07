@@ -1,2 +1,3 @@
 # properties-airbnb
- real estate price calculation
+ data analysis project (the database is very heavy)
+ 
